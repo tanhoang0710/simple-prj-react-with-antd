@@ -1,5 +1,6 @@
 import React from "react";
 import AppAbout from "../components/home/AppAbout";
+import AppContact from "../components/home/AppContact";
 import AppFaq from "../components/home/AppFaq";
 import AppFeature from "../components/home/AppFeature";
 import AppHero from "../components/home/AppHero";
@@ -15,6 +16,7 @@ export default function AppHome() {
 			<AppWorks />
 			<AppFaq />
 			<AppPricing />
+			<AppContact />
 		</div>
 	);
 }
