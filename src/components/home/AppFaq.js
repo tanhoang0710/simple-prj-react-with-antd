@@ -4,7 +4,7 @@ const { Panel } = Collapse;
 
 export default function AppFaq() {
 	return (
-		<div className="block faqBlock">
+		<div id="faq" className="block faqBlock">
 			<div className="container-fluid">
 				<Collapse defaultActiveKey={["1"]}>
 					<Panel header="How to setup the theme?" key="1">
