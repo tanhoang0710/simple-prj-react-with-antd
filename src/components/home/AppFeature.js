@@ -25,8 +25,11 @@ export default function AppFeature() {
 				<div className="titleHolder">
 					<h2>Key Features and Benefits</h2>
 					<p>
-						Obcaecati consequatur libero repudiandae, aperiam itaque
-						laborum!
+						Lorem ipsum dolor sit amet consectetur, adipisicing
+						elit. Ea quibusdam corporis molestiae facilis nihil, ad
+						reiciendis, alias dolor eius nobis nulla itaque culpa
+						magni repellendus sunt voluptates. Officia, repellendus
+						aspernatur?
 					</p>
 				</div>
 
